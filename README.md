@@ -7,7 +7,7 @@
 
 ## Dependencias
 ```
-git python3 glew sdl2
+git python3 glew sdl2 gmake
 ```
 
 ![Dependencias](https://user-images.githubusercontent.com/59105868/111821231-2bcf3e80-88c1-11eb-8c89-01a6d22ee78c.png)
